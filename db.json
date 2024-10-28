@@ -1,0 +1,61 @@
+{
+    "dich_vu":[
+        {"id":"1", "ten":"Cấy Ghép Implant", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/Implant-1710230949-.jpg"},
+        {"id":"2", "ten":"TRÁM RĂNG THẨM MỸ", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/tram-rang-tham-my-1710231201-.jpg"},
+        {"id":"3", "ten":"CẠO VÔI RĂNG", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/cao-voi-rang-1710231237-.jpg"},
+        {"id":"4", "ten":"NHỔ RĂNG THƯỜNG", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/nho-rang-thuong-1710231292-.jpg"},
+        {"id":"5", "ten":"NỘI NHA CHỮA TUỶ", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/noi-nha-chua-tuy-1710231220-.jpg"},
+        {"id":"6", "ten":"CẮT NẠO CHÓP", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/cat-nao-chop.jpg"},
+        {"id":"7", "ten":"NHỔ RĂNG KHÔN", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/nho-rang-khon-1710231211-.jpg"},
+        {"id":"8", "ten":"HÀM GIẢ THÁO LẮP", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/ham-gia-thao-lap-1710231228-.jpg"}
+    ],
+    "chi_nhanh":[
+        {"id":"1", "ten":"140 Lý Thái Tổ, Quận 10", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/q3.png"},
+        {"id":"2", "ten":"52 Tân Kỳ Tân Quý, Quận Tân Phú", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/tanphu-1716005911-.png"},
+        {"id":"3", "ten":"66 Bình Thành, Quận Bình Tân", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/binh-thanh-binh-tan.png"},
+        {"id":"4", "ten":"361 Phan Văn Trị, Quận Bình Thạnh", 
+         "hinh":"https://nhakhoatamducsmile.com/data/upload/chinhnhbinhthanh-1725501473-.png"},
+        {"id":"5", "ten":"196 Lũy bán Bích, Quận Tân Phú", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/chinhnhlybnbch-1708318540-.png"},
+        {"id":"6", "ten":"50 Lê Văn Việt, TP Thủ Đức", 
+         "hinh":"https://nhakhoatamducsmile.com/data/upload/hnhchinhnhwebq9-1700796056-.jpg"},
+        {"id":"7", "ten":"76 Phạm Hồng Thái, Quận 1", 
+         "hinh":"https://nhakhoatamducsmile.com/data/upload/q11.png"},
+        {"id":"8", "ten":"513 Hoàng Văn Thụ, Quận Tân Bình", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/tnbnh-1678680472-.png"}
+    ],
+    "bang_gia":[
+        {"id":"1", "ten":"Implant Otex ", "gia":"3200000" },
+        {"id":"2", "ten":"Implant Biotem", "gia":"10000000" },
+        {"id":"3", "ten":"Hiossen Mỹ ", "gia":"18000000" },
+        {"id":"4", "ten":"Implant Nobel Tiultra", "gia":"38000000" },
+        {"id":"5", "ten":"Ghép Xương Màng Carrot", "gia":"12000000" },
+        {"id":"6", "ten":"Ghép Xương Màng Hàn Quốc", "gia":"8000000" }
+    ],
+    "khach_hang":[
+        {"id":"1", "ten":"NSƯT, Đạo Diễn Nguyễn Phương Điền", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/nsut-dao-dien-nguyen-phuong-dien.jpg"},
+        {"id":"2", "ten":"NSƯT Thành Lộc", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/nsut-thanh-loc.jpg"} , 
+        {"id":"3", "ten":"Diễn Viên Cao Minh Đạt", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/dien-vien-cao-minh-dat-1710927660-.jpg"} , 
+        {"id":"4", "ten":"NSƯT Ngọc Trinh", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/nsut-ngoc-trinh-1710928418-.jpg"} , 
+        {"id":"5", "ten":"Diễn Viên Thiên An", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/dien-vien-thien-an.jpg"} , 
+        {"id":"6", "ten":"Tiktoker, Blogger Tizi", 
+          "hinh":"https://nhakhoatamducsmile.com/data/upload/tiktoker-blogger-tizi.jpg"} 
+    ]
+    }
+    
